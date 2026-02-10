@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; // ( editted by 1st collaborator )
 int main ()
 {
 	int user =1;
