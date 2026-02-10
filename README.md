@@ -11,7 +11,7 @@ if (user=1)
 cout<< "login successfuly";
 
 else {
-	cut<<"wrong password";
+	cout<<"wrong password";  //  ( edited by 3 collaborator )
 }
 else
 {
