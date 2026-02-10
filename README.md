@@ -8,7 +8,7 @@ if (user=1)
 {
 	if (password==1)
 }
-cout<< "login successfuly";
+cout<< "login successfuly"; //  (editted by 2nd collaborator)
 
 else {
 	cout<<"wrong password";  //  ( edited by 3 collaborator )
